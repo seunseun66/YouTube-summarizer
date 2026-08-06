@@ -16,8 +16,9 @@ The reason why I chunked the transcript by time instead of character count is so
 
 I also forced the AI output into strict JSON instead of letting it return to plain text, since the code needs to actually read and organize the response.
 
-What I learned
--Working with gemni APi and JSON response from an LLM
+# What I learned
+
+- Working with gemni APi and JSON response from an LLM
 
 - Building a real REST APi with FastAPI
   
